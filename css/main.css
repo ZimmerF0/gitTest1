@@ -1,3 +1,9 @@
 body {
   background-color: rgb(87, 117, 173);
 }
+p {
+  color: blueviolet;
+}
+h1 {
+  font-size: 50px;
+}
